@@ -1,4 +1,3 @@
-package Week_14;
 import java.util.Arrays;
 
 public class RotateArray {
