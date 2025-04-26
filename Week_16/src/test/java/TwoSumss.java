@@ -5,7 +5,7 @@ public class TwoSumss {
 
     public static void main(String[] args) {
         TwoSumss sums = new TwoSumss();
-        int [] result = sums.twoSums(new int[] {3,5,7}, 10);
+        int [] result = sums.twoSums(new int[] {3,5,7,9,8}, 17);
         System.out.println("Indices: " + result[0] + " : " + result[1]);
 
     }
